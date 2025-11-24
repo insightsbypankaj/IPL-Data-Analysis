@@ -25,10 +25,14 @@ matches = pd.read_csv("https://raw.githubusercontent.com/Shivaae/IPL-DATA-/main/
 
 **Top Teams:**
      
-Mumbai Indians – 120
-Chennai Super Kings – 106
-Kolkata Knight Riders – 99
-Royal Challengers Bangalore – 91
-Kings XI Punjab – 88
+       Mumbai Indians – 120
+
+       Chennai Super Kings – 106
+
+       Kolkata Knight Riders – 99
+
+       Royal Challengers Bangalore – 91
+
+       Kings XI Punjab – 88
 
       
