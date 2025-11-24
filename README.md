@@ -6,16 +6,21 @@ It analyzes team performance, player statistics, match outcomes, and key insight
 **Data Sources**
 
 The data is loaded directly from GitHub via working URLs:
+
 deliveries = pd.read_csv("https://raw.githubusercontent.com/Shivaae/IPL-DATA-/main/deliveries.csv")
+
 matches = pd.read_csv("https://raw.githubusercontent.com/Shivaae/IPL-DATA-/main/matches.csv")
 
 **Tech Stack**
+
       Python: Pandas, NumPy
       Visualization: Matplotlib, Seaborn
       Notebook: Jupyter
+      
 **Analysis Performed**
 
   Analysis Performed
+  
      matches['winner'].value_counts().head(5)
 
       
