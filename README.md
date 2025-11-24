@@ -30,6 +30,10 @@ matches = pd.read_csv("https://raw.githubusercontent.com/Shivaae/IPL-DATA-/main/
        Chennai Super Kings – 106
 
        Kolkata Knight Riders – 99
+**Most Player of the Match Awards**
+
+    matches['player_of_match'].value_counts().head(10)
+
 
        Royal Challengers Bangalore – 91
 
